@@ -1,0 +1,1 @@
+cookbook 'cookbook-ethtool', :path => '/home/jdewey/git/cookbook-ethtool'

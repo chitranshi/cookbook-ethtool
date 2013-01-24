@@ -1,3 +1,4 @@
+name             "ethtool"
 maintainer       "John Dewey"
 maintainer_email "john@dewey.ws"
 license          "Apache 2.0"
